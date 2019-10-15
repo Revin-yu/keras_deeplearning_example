@@ -19,3 +19,5 @@ fine-tuning_using_pretrained.py: 为了进一步提高之前的结果，我们�
 训练数据库和测试数据库及VGG16训练好的权值在链接: https://pan.baidu.com/s/1skGLNOx 密码: tves<br><br>
 
 数据下载后，把权值和数据库放在相应的目录就OK.
+
+
